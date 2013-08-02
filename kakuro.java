@@ -1,4 +1,3 @@
-
 public class kakuro {
 /**
  * input : total 
@@ -99,9 +98,6 @@ public class kakuro {
 	
 	
 	/**
-	 * 
-	 * @param a
-	 * @param b
 	 * @return
 	 */
 	public int[] generateList(int X , int o){
